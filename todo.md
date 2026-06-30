@@ -46,5 +46,5 @@
 - [x] Adicionar seção de Depoimentos
 - [x] Adicionar Google Maps integrado
 - [x] Criar testes vitest para calculadora
-- [ ] Criar checkpoint final
-- [ ] Publicar site
+- [x] Criar checkpoint final
+- [x] Publicar site

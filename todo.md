@@ -21,9 +21,9 @@
 
 ## Integrações
 - [x] Integração WhatsApp (botão flutuante + links diretos)
-- [ ] Google Maps (localização + mapa interativo)
+- [x] Google Maps (localização + mapa interativo)
 - [ ] Instagram (feed automático dos últimos posts)
-- [ ] Google Reviews (preparar integração)
+- [x] Google Reviews (preparar integração)
 
 ## Detalhes Visuais
 - [x] Animações suaves (scroll, hover, transições)
@@ -35,14 +35,16 @@
 
 ## Otimizações
 - [x] SEO (meta tags, schema markup básico)
-- [ ] Performance (lazy loading, otimização de imagens)
-- [ ] Acessibilidade (WCAG 2.1)
-- [ ] Testes vitest para componentes críticos
+- [x] Performance (lazy loading, otimização de imagens)
+- [x] Acessibilidade (WCAG 2.1)
+- [x] Testes vitest para componentes críticos
 
 ## Entrega
-- [ ] Revisar todas as seções
-- [ ] Testar em mobile, tablet e desktop
-- [ ] Adicionar Galeria de Projetos
-- [ ] Adicionar seção de Depoimentos
+- [x] Revisar todas as seções
+- [x] Testar em mobile, tablet e desktop
+- [x] Adicionar Galeria de Projetos
+- [x] Adicionar seção de Depoimentos
+- [x] Adicionar Google Maps integrado
+- [x] Criar testes vitest para calculadora
 - [ ] Criar checkpoint final
 - [ ] Publicar site

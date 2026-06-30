@@ -8,6 +8,7 @@ import Benefits from '@/components/Benefits';
 import Gallery from '@/components/Gallery';
 import Testimonials from '@/components/Testimonials';
 import FAQ from '@/components/FAQ';
+import Location from '@/components/Location';
 import ContactCTA from '@/components/ContactCTA';
 import Footer from '@/components/Footer';
 
@@ -27,6 +28,7 @@ export default function Home() {
         <Gallery />
         <Testimonials />
         <FAQ />
+        <Location />
         <ContactCTA />
       </main>
 
